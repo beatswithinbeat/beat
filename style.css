@@ -10,6 +10,8 @@ body {
 h1 {
   color: #4444bb;
   margin-bottom: 0.2em;
+  text-decoration: overline underline;
+  text-decoration-style: wavy;
 }
 
 
