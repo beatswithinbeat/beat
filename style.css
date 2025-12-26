@@ -1,6 +1,7 @@
 /* Stile base sito musicale */
 body {
   font-family: Garamond;
+  background-color: #f5f5f5;
   color: #000000;
   text-align: center;
   padding: 20px;
@@ -22,12 +23,12 @@ h2 {
 }
 
 h2, p {
-  margin: 1;
+  margin: 2px;
   padding: 0;
 }
 
 h4, p {
-  margin: 1;
+  margin: 2px;
   padding: 0;
 }
 
