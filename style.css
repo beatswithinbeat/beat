@@ -1,8 +1,7 @@
 body {
   font-family: Garamond;
-  background-image: linear-gradient(to bottom right, blue, purple);
+  background-image: linear-gradient(to bottom right, blue, purple, 0.3);
   background-color: #f5f5f5;
-  background-opacity: 0.3;
   color: #000000;
   text-align: center;
   padding: 20px;
