@@ -8,7 +8,7 @@ body {
 }
 
 #grad {
-  background-color: linear-gradient(to bottom right, blue, purple);
+  background-image: linear-gradient(to bottom right, blue, purple);
 }
 
 h1 {
