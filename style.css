@@ -8,13 +8,13 @@ body {
 }
 
 h1 {
-  color: #b22222;
+  color: ##141463;
   font-size: 3em;
   margin-bottom: 0.2em;
 }
 
 h2 {
-  color: #444;
+  color: #000000;
   margin-top: 1.5em;
 }
 
@@ -25,10 +25,10 @@ ul {
 
 li a {
   text-decoration: none;
-  color: #b22222;
+  color: #441044;
   font-weight: bold;
 }
 
 li a:hover {
-  color: #ff4500;
+  color: #441044;
 }
