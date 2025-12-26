@@ -1,10 +1,23 @@
+
 body {
-  font-family: Garamond, Times New Roman;
-  background-image: linear-gradient(to bottom right, rgba(44, 44, 255, 0.6),  rgba(1, 22, 144, 0.6));
-  background-color: transparent;
-  color: #000000;
+  font-family: Garamond, "Times New Roman";
+  color: #000;
   text-align: center;
   padding: 20px;
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: linear-gradient(
+    to bottom right,
+    rgb(44, 44, 255),
+    rgb(1, 22, 144)
+  );
+  opacity: 0.4;
+  z-index: -1;
 }
 
 h1 {
