@@ -37,9 +37,6 @@ li a {
   text-decoration: none;
   color: #441044;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 100px;
 }
 
-li a:hover {
-  color: #441044;
-}
